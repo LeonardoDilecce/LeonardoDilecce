@@ -1,6 +1,6 @@
 #  THIS .MD IS WORK IN PROGRESS AND NOW ONLY IN ITALIAN #
 
-
+#AGE: 17#
 
 # LINGUAGGIO PREFERITO: C++  #
 - Linguaggio				Conoscenze:
